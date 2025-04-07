@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Michael Schultz</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Michael Schultz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>research</title>
+      <link>/categories/research/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cv</title>
+      <link>/categories/cv/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntax</title>
+      <link>/categories/syntax/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theme demo</title>
+      <link>/categories/theme-demo/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/theme-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>students</title>
+      <link>/categories/students/</link>
+      <pubDate>Sun, 01 Jan 2023 22:55:05 -0400</pubDate>
+      
+      <guid>/categories/students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/categories/r/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/categories/r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

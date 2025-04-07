@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>research on Michael Schultz</title>
+    <link>/tags/research/</link>
+    <description>Recent content in research on Michael Schultz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Communication Structures in Organizations Link to heading Social interaction and conversation are a fundamental component of social structure. Despite this, we still know little about how interactions change in the presence of new members, when aggregated or combined into networks, or in different contexts.
+My work on the effects of communications structures uses natural language processing, information theory, and social networks to investigate the relationships between interactions and social structures in conversations, discussions, and other forms of organizational communications.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>/cv/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description> Resume Full Academic CV </description>
+    </item>
+    
+  </channel>
+</rss>
